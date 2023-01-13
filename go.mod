@@ -1,3 +1,3 @@
-module github.com/kavenegar/kavenegar-go
+module github.com/mdpe-ir/kavenegar-go
 
-go 1.14
+go 1.19
